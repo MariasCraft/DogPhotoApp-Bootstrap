@@ -22,6 +22,10 @@
 
 .navbar-brand {
     font-size: 2rem;
-    padding .5% 10% 0;
+    padding: 0.5% 10% 0;
     text-transform: uppercase;
+}
+
+.navbar-nav {
+    padding: 5% 8%;
 }
